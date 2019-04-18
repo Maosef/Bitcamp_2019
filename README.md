@@ -9,5 +9,5 @@ Parses XML, then visualizes investment advisors in a network graph, using networ
 # Requirements: 
 Network_vis: Numpy, Pandas, Plotly, networkx
 
-Bokeh_vis_finra: Numpy, Pandas, Gensim, NLTK, Bokeh, Scikit-learn, pyLDAvis
+Bokeh_vis_finra: Numpy, Pandas, Gensim, NLTK, Bokeh, Scikit-learn, pyLDAvis, xpdfreader
 
